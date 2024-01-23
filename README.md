@@ -5,6 +5,6 @@
 * MSc in Computer Science at UFPE (Center of Informatics), 2024 (in progress)
   
 ### 🔭 Passions and skills
-* Time series analysis and forecasting
-* Data processing and visualization
-* Consumer behavior data analysis
+* Time series analysis and forecasting (Python 🐍)
+* Consumer behavior data analysis (Python 🐍)
+* Data processing and visualization (Python 🐍, PowerBI 📈 and Tableau📊)
