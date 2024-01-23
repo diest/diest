@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Obrigado por sua visita! / Thank you for dropping by! 👋
 
-<!--
-**diest/diest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PTBR
+### Algumas informações sobre mim:  
+#### 🧑‍🏫 Formação
+* Graduação em Administração pela UFPE (Centro de Ciências Sociais Aplicadas), 2017–2020
+* Especialização em Ciência de Dados pela UFPE (Centro de Informática), 2022–2023
+* Mestrado em Ciência da Computação pela UFPE (Centro de Informática), 2024 (em andamento)
+#### 🔭 Paixões e habilidades
+* Análise e previsão de séries temporais
+* Tratamento e visualização de dados
+* Análise de dados de comportamento de consumidor
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## EN
+### About me:
+#### 🧑‍🏫 Formal education
+* BSc in Business Administration at UFPE (Center of Applied Social Sciences), 2017–2020
+* PG Specialization in Data Science at UFPE (Center of Informatics), 2022–2023
+* MSc in Computer Science at UFPE (Center of Informatics), 2024 (in progress)
+#### 🔭 Passions and skills
+* Time series analysis and forecasting
+* Data processing and visualization
+* Consumer behavior data analysis
