@@ -1,16 +1,4 @@
-# 👋 Obrigado por sua visita! / Thank you for dropping by! 👋
-## PTBR
-### 🧑‍🏫 Formação
-* Graduação em Administração pela UFPE (Centro de Ciências Sociais Aplicadas), 2017–2020
-* Especialização em Ciência de Dados pela UFPE (Centro de Informática), 2022–2023
-* Mestrado em Ciência da Computação pela UFPE (Centro de Informática), 2024 (em andamento)
-  
-### 🔭 Paixões e habilidades
-* Análise e previsão de séries temporais
-* Tratamento e visualização de dados
-* Análise de dados de comportamento de consumidor
-  
-## EN
+## 👋 Thank you for dropping by! 👋
 ### 🧑‍🏫 Formal education
 * BSc in Business Administration at UFPE (Center of Applied Social Sciences), 2017–2020
 * PG Specialization in Data Science at UFPE (Center of Informatics), 2022–2023
