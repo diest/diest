@@ -1,6 +1,7 @@
 ## 👋 Thank you for dropping by! 👋
 ### 🧑‍🏫 Formal education
-* MSc candidate in Computer Science at UFPE (Center of Informatics), 2024 (in progress)
+* PhD candidate in Computer Science at UFPE (Center of Informatics), 2026 (in progress)
+* MSc in Computer Science at UFPE (Center of Informatics), 2024–2026
 * PG Specialization in Data Science at UFPE (Center of Informatics), 2022–2023
 * BSc in Business Administration at UFPE (Center of Applied Social Sciences), 2017–2020
   
